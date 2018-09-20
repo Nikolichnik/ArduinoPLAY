@@ -5,4 +5,4 @@ On pins 3, 5 and 6 there are tracks for connection suitable for small SMD NPN tr
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/Nikolichnik/CAPtivatorINTEL/master/resources/screenshot2.png)
+![alt text](https://raw.githubusercontent.com/Nikolichnik/ArduinoPLAY/master/ArduinoPlay.png)
