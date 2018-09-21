@@ -5,4 +5,6 @@ On pins 3, 5 and 6 there are tracks for connection suitable for small SMD NPN tr
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/Nikolichnik/ArduinoPLAY/master/ArduinoPlay.png)
+<p align="center">
+  <a href="https://github.com/Nikolichnik"><img src="https://raw.githubusercontent.com/Nikolichnik/ArduinoPLAY/master/ArduinoPlay.png"></a>
+</p>
